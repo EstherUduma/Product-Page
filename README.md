@@ -4,6 +4,8 @@
 This is one of the required projects to earn my Responsive Web Design certification from freeCodeCamp. For this project, I built a product landing page to market a product of my choice.
 <br />
 
+<h2>Hosted Page Link</h2>
+https://product-page.esther-annann.repl.co
 
 <h2>Languages and Utilities Used</h2>
 
